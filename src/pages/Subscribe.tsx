@@ -32,9 +32,9 @@ export function Subscribe() {
 
           <h1 className="mt-8 text-[2.5rem] leading-tight">
             Construa uma
-            <strong className="text-blue-500">aplicação completa</strong>, do
+            <strong className="text-blue-500"> aplicação completa</strong>, do
             zero, com
-            <strong className="text-blue-500">React</strong>
+            <strong className="text-blue-500"> React</strong>
           </h1>
           <p className="mt-4 text-gray-200 leading-relaxed">
             Em apenas uma semana você vai dominar na prática uma das tecnologias
